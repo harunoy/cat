@@ -1,0 +1,36 @@
+body{
+    background-color: #68BAB5;
+    }
+
+    /* start! */
+    .btn {
+    
+
+position: absolute;
+width: 404px;
+height: 106px;
+
+font-family: NanumGothicCoding;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 64px;
+text-align: center;
+top: 1220px;
+    left: 840px;
+color: #FDF7E7;
+
+
+    }
+
+
+footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        height: 30px;
+        background-color:#68BAB5 ;
+        font-size: 15px;
+        color: #fff;
+      }
